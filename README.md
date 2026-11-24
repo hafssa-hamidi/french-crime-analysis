@@ -3,7 +3,6 @@
 Exploratory data analysis of recorded crime statistics for the 96 metropolitan French départements, using **Principal Component Analysis (PCA)**, **K-means** and **hierarchical clustering (Ward)**.
 
 > Group project, Master 2 IDEAL (Decision Support / Data Science), Université de Lorraine, 2026.
-> Team: Ahlem Belhadj, Othmane Fahmi, **Hafssa Hamidi**, Oumaima Mrhir, Maram Neili.
 
 ## Questions
 
